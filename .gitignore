@@ -40,3 +40,4 @@ xcuserdata
 
 # npm
 node_modules
+/vc_build
